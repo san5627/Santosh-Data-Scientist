@@ -1,18 +1,25 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Santosh</h1>
 <h3 align="center">A Data Science Expert in the making</h3>
+<h3 align="center">Connect with me:</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=san5627" alt="san5627" /></a> </p>
+<p align="center">
+<a href="https://twitter.com/santoshsantos18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santoshsantos18" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santosh-s-bba4b9119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-s-bba4b9119/" height="30" width="40" /></a>
+<a href="https://kaggle.com/santoshsusarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="santoshsusarla" height="30" width="40" /></a>
+<a href="https://medium.com/@santoshsantosh037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@santoshsantosh037" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/santoshsantosh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="santoshsantosh01" height="30" width="40" /></a>
+</p>
 
-## 🙋‍♂️ About Me
+  ## <h1 align="Left"> 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **my Masters Thesis on 'Customer Lifetime Value  prediction - An important refined metric that helps businesses to predict valuation of their customers'**
+- 🔭 I have just finished  **my Masters Thesis on 'Customer Lifetime Value prediction using Machine Learning - An important refined metric that helps businesses to predict valuation of their customers'** and looking for data science or machine learning related work profiles!
 
 - 🌱 I’m currently learning **Advanced Deep Learning Models like Transformer that adopts the mechanism of self-attention.**
 
 - 👯 I’m looking to work on **Applied Machine Learning Projects**
 
-- ⚡ Fun fact **I love music (Classical Carnatic Vocals) and hit the GYM very often.**
+- ⚡ Fun fact **I love music (Classical Carnatic Vocals) and like to play Basket Ball.**
 
 
 - 📝 I like writing articles on [https://medium.com/@santoshsantosh037/](https://medium.com/@santoshsantosh037/)
@@ -34,14 +41,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=san5627&" alt="san5627" /></p>
 
-<h3 align="left">Connect with me:</h3>
 
-<p align="left">
-<a href="https://twitter.com/santoshsantos18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santoshsantos18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/santosh-s-bba4b9119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-s-bba4b9119/" height="30" width="40" /></a>
-<a href="https://kaggle.com/santoshsusarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="santoshsusarla" height="30" width="40" /></a>
-<a href="https://medium.com/@santoshsantosh037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@santoshsantosh037" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/santoshsantosh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="santoshsantosh01" height="30" width="40" /></a>
-</p>
 
 
